@@ -1,4 +1,5 @@
 # Project-2D-Game
 2D Game.
 
-Projekt zakłada stworzenie przygodowej gry platformowej z elementami RPG z użyciem silnika Unreal Engine 4.
+The project involves the creation of an adventure platform game with RPG elements using the Unreal Engine 4 engine.
+
